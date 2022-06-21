@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @domgarseeyah
-- 👀 I’m interested in Front end Web development, Bootstrap compiling for ERP and CRM software.
+- 👀 I’m interested in Frontend Web development, Bootstrap compiling for ERP and CRM software.
 - 🌱 I’m currently learning Javascript, Python
 
 - 📫 How to reach me dgarcia826@gmail.com
